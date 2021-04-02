@@ -18,6 +18,7 @@ date = 2021-03-12
 ## 所属学会
 1. 日本バーチャルリアリティ学会
 ## 原著論文
+1. [[Open Access][Early Access] <u>Shun Suzuki</u>, Seki Inoue, Masahiro Fujiwara, Yasutoshi Makino, and Hiroyuki Shinoda, “AUTD3: Scalable Airborne Ultrasound Tactile Display,” in IEEE Transactions on Haptics, doi: 10.1109/TOH.2021.3069976.](https://ieeexplore.ieee.org/document/9392322)
 1. [[Open Access] <u>Shun Suzuki</u>, Masahiro Fujiwara, Yasutoshi Makino, and Hiroyuki Shinoda, "Reducing Amplitude Fluctuation by Gradual Phase Shift in Midair Ultrasound Haptics," IEEE transactions on haptics, Vol. 13, No. 1, pp. 87-93, Jan.-March (2020).](https://ieeexplore.ieee.org/document/8960301)
 
 ## 国際会議（査読有）
@@ -45,6 +46,10 @@ date = 2021-03-12
 1. [Takaaki Kamigaki, <u>Shun Suzuki</u>, and Hiroyuki Shinoda. 2020. Mid-air Thermal Display via High-intensity Ultrasound. In SIGGRAPH Asia 2020 Emerging Technologies (SA '20). Association for Computing Machinery, New York, NY, USA, Article 17, 1–2. DOI:https://doi.org/10.1145/3415255.3422895, Dec. 4-13, 2020, Virtual Event, Republic of Korea.](https://dl.acm.org/doi/10.1145/3415255.3422895) [(Movie)](https://www.youtube.com/watch?v=4Sy3T9i4GQo)
 1. [Takaaki Kamigaki, <u>Shun Suzuki</u>, and Hiroyuki Shinoda, “Mid-air Thermal and Vibrotactile Display Using Focused Airborne Ultrasound,” International Conference on Human Haptic Sensing and Touch Enabled Computer Applications (Euro Haptics), Sep. 6-9, 2020, Leiden, Netherlands.](https://www.youtube.com/watch?v=Y9OArFUqGw8)
 1. <u>Shun Suzuki</u>, Masahiro Fujiwara, Yasutoshi Makino, and Hiroyuki Shinoda, “Midair Haptic Guidance by Ultrasonic Spatial Modulation,” Proc. 2019 IEEE World Haptics Conference, DM2.32, Tokyo, Japan, July 9-12, 2019. [(paper draft)](https://drive.google.com/file/d/11P_0jPkIcL0T8Bqxh6nE1ZUiIoVutknc/view)
+
+## 外部資金
+
+1. [新型コロナウイルス感染症対策実用化推進助成制度(2021.4/1 – 2022. 3/31), 共同研究者](http://www.ducr.u-tokyo.ac.jp/ip/gakunai/corona_0730.html)
 
 ## 受賞
 
